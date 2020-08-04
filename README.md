@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Jagannatha
+your profile.
 
- 🔭 I’m currently working on TestAutomation Projects.</br>
- 🌱 I’m currently learning Cypress Automation.</br>
- 👯 I’m looking to collaborate on OpenSource Automation Tool</br>
- 🤔 I’m looking for help with Karate DSL.</br>###
- 💬 Ask me about ...</br>
- 📫 How to reach me: jagannatham66@gmail.com</br>
- 
-### My Stats:
- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Test Automation 
+- 🌱 I’m currently learning Cypress and Jest Test Automation 
+- 👯 I’m looking to collaborate on Karate DSL 
+- 🤔 I’m looking for help with Cypress 
+- 💬 Ask me about Anything with UI and API Automation 
+- 📫 How to reach me: jagannatham66@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JagannathaReddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jagannatha-mv-56639b7b/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JagannathaReddy&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/JagannathaReddy)  
