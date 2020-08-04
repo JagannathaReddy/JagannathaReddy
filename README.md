@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jagannatha
 your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / SQL / JS / HTML / CSS/ Karate/ 
 
 - 🔭 I’m currently working on Test Automation 
 - 🌱 I’m currently learning Cypress and Jest Test Automation 
