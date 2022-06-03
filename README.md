@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Jagannatha
-your profile.
 
 Skills: Java / SQL / JS / HTML / CSS/ Karate/ 
 
